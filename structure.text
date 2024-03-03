@@ -1,0 +1,113 @@
+Information:
+  - Name: Rplay
+  - Crated at: July 12, 2023
+  - Update at: July 30, 2023
+  - Project: FullStack Project
+  - Programming languages: PHP (pure or vanila), and JavaScript
+  - Markup and styles languages: HTML (markup), and CSS (styles)
+  - Library: jQuery and PHPMailer
+  - Framework (for Front-end: Tailwind CSS)
+  - Icon: Font Awesome
+  - Website: https://s.id/DTubeIn or https://dtubein.danitechno.com
+
+Structure:
+- Front-end:
+  - Framework:
+    - Tailwind CSS (CDN: https://cdn.tailwindcss.com or https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css)
+  - Icon
+    - Font Awesome (CDN: https://cdn.fontawesome.com or https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css and https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css)
+  - src/
+    - css/
+    - js/
+    - modules/
+      - tailwind/
+      - font-awesome/
+    - img/
+  - index.html
+  - register.html
+  - login.html
+  - search.html
+  - video.html
+  - comments.html
+  - upload-video.html
+  - profile.html
+  - edit-profile.html
+- End
+
+- Back-end:
+  - Library:
+    - PHPMailer (URL: https://github.com/PHPMailer/PHPMailer)
+    - jQuery (CDN: https://releases.jquery.com or https://code.jquery.com/jquery-3.6.0.min.js and https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.0/jquery.min.js)
+  - includes/
+    - config.php
+    - functions.php
+  - action/
+    - subscribe.php
+    - unsubscribe.php
+    - like.php
+    - dislike.php
+    - comments.php
+  - lib/
+    - PHPMailer/
+    - jQuery/
+  - src/
+    - css/
+    - js/
+    - img/
+    - modules/
+      - tailwind/
+      - font-awesome/
+  - uploads/
+    - profile-pictures/
+    - thumbnails/
+    - videos/
+  - register.php
+  - login.php
+  - search.php
+  - video.php
+  - comments.php
+  - upload-video.php
+  - profile.php
+  - edit-profile.php
+- End
+
+- Full-Stack:
+  - Framework:
+    - Tailwind CSS (CDN: https://cdn.tailwindcss.com or https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css)
+  - Icon
+    - Font Awesome (CDN: https://cdn.fontawesome.com or https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css and https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css)
+  - Library:
+    - PHPMailer (URL: https://github.com/PHPMailer/PHPMailer)
+    - jQuery (CDN: https://releases.jquery.com or https://code.jquery.com/jquery-3.6.0.min.js and https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.0/jquery.min.js)
+  - includes/
+    - config.php
+    - functions.php
+  - action/
+    - subscribe.php
+    - unsubscribe.php
+    - like.php
+    - dislike.php
+    - comments.php
+  - lib/
+    - PHPMailer/
+    - jQuery/
+  - src/
+    - css/
+    - js/
+    - img/
+    - modules/
+      - tailwind/
+      - font-awesome/
+  - uploads/
+    - profile-pictures/
+    - thumbnails/
+    - videos/
+  - register.php
+  - login.php
+  - search.php
+  - video.php
+  - comments.php
+  - upload-video.php
+  - profile.php
+  - edit-profile.php
+- End

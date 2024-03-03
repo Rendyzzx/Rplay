@@ -1,0 +1,15 @@
+[09-Aug-2023 14:13:01 UTC] PHP Warning:  mysqli::query(): Empty query in /home/dang2331/public_html/dtubein.danitechno.com/index.php on line 41
+[11-Aug-2023 07:16:04 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/dang2331/public_html/dtubein.danitechno.com/includes/functions.php on line 3
+[11-Aug-2023 07:16:04 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/dang2331/public_html/dtubein.danitechno.com/index.php on line 7
+[11-Aug-2023 07:16:08 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/dang2331/public_html/dtubein.danitechno.com/includes/functions.php on line 3
+[11-Aug-2023 07:16:08 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/dang2331/public_html/dtubein.danitechno.com/login.php on line 6
+[11-Aug-2023 07:16:08 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/dang2331/public_html/dtubein.danitechno.com/includes/functions.php on line 3
+[11-Aug-2023 07:16:08 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/dang2331/public_html/dtubein.danitechno.com/video.php on line 7
+[11-Aug-2023 07:16:12 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/dang2331/public_html/dtubein.danitechno.com/includes/functions.php on line 3
+[11-Aug-2023 07:16:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dang2331/public_html/dtubein.danitechno.com/config.php:41) in /home/dang2331/public_html/dtubein.danitechno.com/notifications.php on line 8
+[11-Aug-2023 07:16:30 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/dang2331/public_html/dtubein.danitechno.com/includes/functions.php on line 3
+[11-Aug-2023 07:16:30 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/dang2331/public_html/dtubein.danitechno.com/index.php on line 7
+[11-Aug-2023 07:16:33 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/dang2331/public_html/dtubein.danitechno.com/includes/functions.php on line 3
+[11-Aug-2023 07:16:33 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/dang2331/public_html/dtubein.danitechno.com/index.php on line 7
+[11-Aug-2023 07:19:38 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'danitechid'@'dhaulagiri.iixcp.rumahweb.net' (using password: YES) in /home/dang2331/public_html/dtubein.danitechno.com/includes/connection.php on line 5
+[11-Aug-2023 07:20:06 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'danitechid'@'dhaulagiri.iixcp.rumahweb.net' (using password: YES) in /home/dang2331/public_html/dtubein.danitechno.com/includes/connection.php on line 5
